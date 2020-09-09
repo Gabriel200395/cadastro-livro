@@ -6,8 +6,7 @@
             fazer a chamada para api para os componentes, vou disponibilizar
             o codigo da api vai ser cham API-FORM.     
        </h1> 
-      
-          <img src="/public/IMG/cadastro.gif" width:200/>
+          <img src="/public/IMG/cadastro.gif"/>
            <br />
         <h5>Siga o passo passo para obter o projeto.<h5>
       <ul>   

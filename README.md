@@ -6,11 +6,11 @@
           <img src="/public/IMG/cadastro.gif"/>
            <br />
         <h5>Sobre<h5>
-            <div>
+            <div style="width:400">
               <p>Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
                caso ele queira modificar os seus pedidos ele poderia modificar, com base nisso desenvolver
               o front-end em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
-              moderna e entendível e passando as responsabilidades para o nossos componentes fazer a chamada com api.
+              moderna e entendível e passando as responsabilidades para o nossos componentes fazer a chamada para Api.
                </p>
            </div>
         <h5>Siga o passo passo para obter o projeto.<h5>

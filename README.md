@@ -8,14 +8,14 @@ o codigo da api vai ser cham API-FORM.
 
 Siga o passo passo para obter o projeto.
 
-#clone o projeto ou faz download 
+#clone o projeto ou faz download: 
 https://github.com/Gabriel200395/cadastro-livro.git 
 
-#entre na pasta do projeto 
+#entre na pasta do projeto: 
 cd cadastro-livro 
 
-#baixa as independencias
+#baixa as independencias:
 npm-install
 
-#inicie aplicação 
+#inicie aplicação: 
 npm-start

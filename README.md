@@ -1,13 +1,18 @@
 <html>
    <body>
        <h1 style="font-weight:bold"> 
-            Esse Projeto foi de cadastro de alunos em uma biblioteca, desenvolver um crud 
-            com react utilizando um hook o useContext passando as responsabilidades de
-            fazer a chamada para api para os componentes, vou disponibilizar
-            o codigo da api vai ser chama API-FORM.     
+         Cadastro de alunos em um biblioteca    
        </h1> 
           <img src="/public/IMG/cadastro.gif"/>
            <br />
+        <h5>Sobre<h5>
+            <div>
+              <p>Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
+               caso ele queira modificar os seus pedidos ele poderia modificar, com base nisso desenvolver
+              o fontend em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
+              moderna e entendível.
+               </p>
+           </div>
         <h5>Siga o passo passo para obter o projeto.<h5>
       <ul>   
          <li>

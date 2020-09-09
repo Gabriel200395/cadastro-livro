@@ -9,8 +9,8 @@
             <div>
               <p>Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
                caso ele queira modificar os seus pedidos ele poderia modificar, com base nisso desenvolver
-              o fontend em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
-              moderna e entendível.
+              o front-end em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
+              moderna e entendível e passando as responsabilidades para o nossos componentes fazer a chamada com api.
                </p>
            </div>
         <h5>Siga o passo passo para obter o projeto.<h5>

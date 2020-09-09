@@ -6,7 +6,7 @@
           <img src="/public/IMG/cadastro.gif"/>
            <br />
         <h5>Sobre<h5>
-            <div >
+            <div style="width:133px" >
               <p style="width:400px">Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
                caso ele queira modificar os seus pedidos ele poderia modificar, com base nisso desenvolver
               o front-end em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais

@@ -1,6 +1,6 @@
 <html>
    <body>
-       <h1 style="font-weight:bold"> 
+       <h1 style="font-weight:bold, text-align:center"> 
          Cadastro de alunos em um biblioteca    
        </h1> 
           <img src="/public/IMG/cadastro.gif"/>

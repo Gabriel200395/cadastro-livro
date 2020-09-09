@@ -7,7 +7,7 @@
             o codigo da api vai ser cham API-FORM.     
        </h1> 
       
-          <img src="/public/IMG/cadastro.gif" alt="imagem" width="200"/>
+          <img src="/public/IMG/cadastro.gif" width:200/>
            <br />
         <h5>Siga o passo passo para obter o projeto.<h5>
       <ul>   

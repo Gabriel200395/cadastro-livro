@@ -5,7 +5,9 @@
             com react utilizando um hook o useContext passando as responsabilidades de
             fazer a chamada para api para os componentes, vou disponibilizar
             o codigo da api vai ser cham API-FORM.     
-       </h1>
+       </h1> 
+      
+          <img src="/public/IMG/cadastro.gif" alt="imagem" width="200"/>
            <br />
         <h5>Siga o passo passo para obter o projeto.<h5>
       <ul>   

@@ -18,6 +18,9 @@
 
 <!--EXEMPLO:-->
 - [React](https://pt-br.reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React Router](https://www.npmjs.com/package/react-router-dom)
+- [Materialize Css](https://materializecss.com/)
 
 ## :page_facing_up: Sobre
 
@@ -29,7 +32,7 @@ moderna e entendível e passando as responsabilidades para o nossos componentes 
                
 ## 💻 Como usar
 
-- Clone o projeto: `https://github.com/Gabriel200395/cadastro-livro.git     
+- Clone o projeto: `git clone https://github.com/Gabriel200395/cadastro-livro.git     
 `;
 - Entrar na pasta do projeto: `cd cadastro-livro`;
 - Iniciar a aplicação: `npm start`.

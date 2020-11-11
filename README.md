@@ -2,7 +2,7 @@
    <body>
   <h1 align="center">Cadastro de Livro</h1>
 <h4 align="center">
-  <img src="./.github/assets/IMAGE OU GIF" /><br>
+  <img src="./public/IMG/cadastro.gif"  /><br>
 </h4>
 
 <p align="center">
@@ -35,13 +35,6 @@ moderna e entendível e passando as responsabilidades para o nossos componentes 
 - Iniciar a aplicação: `npm start`.
 
 Irá abrir uma página no browser (se não abrir, vá até [http://localhost:8080](http://localhost:8080/)).
-
-## :heart_eyes: Features
-
-<h4 align="center">
-  <img src="./public/IMG/cadastro.gif"  /><br>
-</h4>
-
 ## :pencil: Autor
 
 <table>

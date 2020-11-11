@@ -39,7 +39,7 @@ Irá abrir uma página no browser (se não abrir, vá até [http://localhost:808
 ## :heart_eyes: Features
 
 <h4 align="center">
-  <img src="./public/IMG/controleEstoque.gif"  /><br>
+  <img src="./public/IMG/cadastro.gif"  /><br>
 </h4>
 
 ## :pencil: Autor

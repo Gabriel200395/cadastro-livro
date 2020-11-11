@@ -35,6 +35,8 @@ moderna e entendível e passando as responsabilidades para o nossos componentes 
 - Entrar na pasta do projeto: `cd cadastro-livro`;
 - Iniciar a aplicação: `npm start`.
 - baixe as dependências: `npm install`
+
+<br />
 Irá abrir uma página no browser (se não abrir, vá até [http://localhost:8080](http://localhost:8080/)).
 ## :pencil: Autor
 

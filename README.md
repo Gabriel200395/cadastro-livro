@@ -32,9 +32,9 @@ moderna e entendível e passando as responsabilidades para o nossos componentes 
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/cadastro-livro.git`
-- Entrar na pasta do projeto: `cd cadastro-livro`;
-- Iniciar a aplicação: `npm start`.
-- baixe na aplicação: `npm install`.
+- Entrar na pasta do projeto: `cd cadastro-livro`
+- Iniciar a aplicação: `npm start`
+- baixe na aplicação: `npm install`
 
 Irá abrir uma página no browser (se não abrir, vá até [http://localhost:8080](http://localhost:8080/)).
 ## :pencil: Autor

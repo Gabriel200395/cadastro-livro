@@ -23,12 +23,7 @@
 
 ## :page_facing_up: Sobre
 
-
-Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
-caso ele queira modificar os seus pedidos ele poderia modificar e excluir, com base nisso desenvolver
-o front-end em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
-moderna e entendível e passando as responsabilidades para o nossos componentes fazer a chamada para Api.
-               
+Projeto que desenvolvi baseado em biblotecas. Onde é possível cadastrar livros, listar todos os livros cadastrados, editar algum livro em especifico ou até deletar livros da base de dados. Um caso de uso interessante seria para alunos utilizarem esse projeto para, com facilidade, descobrirem quais livros estão disponíveis para alugar. Caso queira saber mais sobre o projeto, clique no botão abaixo.               
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/cadastro-livro.git`
